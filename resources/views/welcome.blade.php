@@ -12,7 +12,7 @@
 
 
 
-    <title>Welcome | LPMS</title>
+    <title>Welcome  LPMS</title>
 </head>
 <body>
 
